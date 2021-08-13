@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "401106619713",
+    "project_id": "bdukan-983e6",
+    "storage_bucket": "bdukan-983e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401106619713:android:f4347d800fea96b1f7e5c0",
+        "android_client_info": {
+          "package_name": "com.gomarketdemo.groceryy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401106619713-bfk1olpdqb9clagpm7naiqd2uu59cm3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gomarketdemo.groceryy",
+            "certificate_hash": "a16614d04bf276d7f79ebbbe3b771e469f8db9c8"
+          }
+        },
+        {
+          "client_id": "401106619713-ht5470r7j34q1e6bp1ubmjgdqn8cm7js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMQdab8ymXDGoKVEHpT7reUEPJTjL9J8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401106619713-ht5470r7j34q1e6bp1ubmjgdqn8cm7js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
